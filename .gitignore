@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Model checkpoints and serialized weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Common generated-output directories
+results/
+result/
+outputs/
+output/
+figures/
+logs/
+checkpoints/
+trained_models/
+predictions/
+
+# Local data directories
+ data/
+dataset/
+datasets/

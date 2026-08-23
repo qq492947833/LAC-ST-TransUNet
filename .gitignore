@@ -28,6 +28,6 @@ trained_models/
 predictions/
 
 # Local data directories
- data/
+data/
 dataset/
 datasets/
